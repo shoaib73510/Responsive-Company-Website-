@@ -1,0 +1,124 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+/* navbar start */
+nav{
+    position: sticky !important;
+    top: 0 !important;
+    z-index: 100;
+}
+.bg-purple{
+    background-color: rgb(158,63,253)!important;
+}
+.nav-link{
+    color: rgb(0, 0, 0);
+}
+.active,.nav-link:hover{
+    color: rgb(158,63,253) !important;
+}
+.bg-purlple{
+    background-color: rgb(158,63,253);
+}
+.bg-purlple:hover{
+    background-color: #000;
+    transition: 1s;
+}
+/* navbar end */
+ 
+/* sec1 start */
+.sec1{
+    height: 100vh;
+    background-image: url("https://images.pexels.com/photos/7233182/pexels-photo-7233182.jpeg?auto=compress&cs=tinysrgb&w=2400");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.sec1btn{
+    background-color: violet !important;
+}
+
+
+/* sec1 end */
+
+
+/* sec2 start*/
+
+.sec2{
+    height: fit-content;
+}
+
+.sec2_sub1{
+    height: fit-content;
+}
+
+.sec2_sub1 h3{
+    text-transform: uppercase;
+    color: violet;
+}
+
+.sec2_sub2{
+    height: fit-content;
+}
+
+/* sec2 end*/
+
+/* sec3 start */
+.sec3{
+    height:fit-content;
+    background-color: rgb(1, 1, 62);
+    color: white;
+}
+.sec3_sub2{
+    height: fit-content;
+}
+/* sec3 end */
+
+/* sec4 start */
+
+.sec4{
+    height: fit-content;
+}
+
+.bg-image
+{
+    background-image: url("https://images.pexels.com/photos/3029545/pexels-photo-3029545.jpeg?auto=compress&cs=tinysrgb&w=4000");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+
+/* sec4 end */
+
+/* sec5 start */
+.sec5{
+    height: fit-content;
+}
+
+/* sec5 end */
+
+/* sec6 start */
+.sec6{
+    background-color: rgb(239, 231, 231);
+    height: fit-content;
+}
+/* sec6 end */
+
+/* sec7 start */
+.sec7{
+    height: fit-content;
+}
+/* sec7 end */
+
+/* sec8 start */
+.sec8{
+height: 100vh;
+}
+/* sec8 end */
+
+.sec9{
+    height: 10vh;
+}
