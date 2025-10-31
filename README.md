@@ -5,7 +5,7 @@ A simple Responsive-Company-Website built with **HTML5**, **CSS3**, and **Bootst
 
 [Live](https://shoaib73510.github.io/Responsive-Company-Website-/)
 
-![preview](preview.png)
+![preview](https://github.com/shoaib73510/Responsive-Company-Website-/blob/main/resp.png?raw=true)
 </div>
 
 ## Key Features:
